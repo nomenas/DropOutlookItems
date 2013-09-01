@@ -47,9 +47,6 @@
     <ClCompile Include="GeneratedFiles\Release\moc_dropoutlookitem.cpp">
       <Filter>Generated Files\Release</Filter>
     </ClCompile>
-    <ClCompile Include="GeneratedFiles\qrc_dropoutlookitem.cpp">
-      <Filter>Generated Files</Filter>
-    </ClCompile>
     <ClCompile Include="OutlookDataObject.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -60,9 +57,6 @@
     </CustomBuild>
     <CustomBuild Include="dropoutlookitem.ui">
       <Filter>Form Files</Filter>
-    </CustomBuild>
-    <CustomBuild Include="dropoutlookitem.qrc">
-      <Filter>Resource Files</Filter>
     </CustomBuild>
     <CustomBuild Include="qdnd_p.h">
       <Filter>Header Files</Filter>
